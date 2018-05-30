@@ -11,17 +11,18 @@ redirect_from:
 
 Education
 ======
-* M.Tech. in  Systems Integration & e-Government, , 2012
+* M.Tech. in  Systems Integration & e-Government, 2012
 * B.S. in Information Technology, Catholic University of Mozambique, 2010
 
 
 
 Work experience
 ======
-> * 2012–Present: Chief Information Officer (Senior ICT Specialist) @ NM Technology Services & Solution
->  * Address: 
->     * 7o Bairro Matacuane, 155, 00000 Beira (Mozambique)
->      * www.nmtss.net
+> * 2012–Present: Chief Information Officer (Senior ICT Specialist) 
+>   * Company: NM Technology Services & Solution
+>   * Address:  7o Bairro Matacuane, 155, Beira, Mozambique
+>   * Website: www.nmtss.net
+ 
  {% comment %} 
  * Duties: 
      * Assess infrastructure on a regular basis to ensure it continues to meet  necessary demands
@@ -32,12 +33,15 @@ Work experience
     * Assist with the installation of new hardware and software and help train employees on its use
     * Manage and oversee departmental quotas
     * Offer suggestions for possible upgrades and changes within the IT department
+
 {% endcomment %}
-* 2018 - Present: Project Manager @ SD Consultores & Servicos (Consultant)
-   * Address: 
-      * Av. Francisico Manyanga, nr. 27, Bairro Central, Nampula, Beira (Mozambique)
-      * www.sdconsult.co.za
-   * Duties
+
+> * 2018 - Present: Project Manager @ SD Consultores & Servicos (Consultant)
+>   * Address:  Av. Francisico Manyanga, nr. 27, Bairro Central, Nampula, Mozambique
+>    * Website:  www.sdconsult.co.za
+
+{% comment %}
+* Duties
       * Planning and Defining Scope
       * Cost, Resource and Activity Planning and Sequencing
       * Team Leadership 
@@ -47,14 +51,16 @@ Work experience
       * Team Leadership
       * Scalability, Interoperability and Portability Analysis
       * Quality Control
-  
-* 2015 - 2016 : Research Assistant @ NLPLab at Institute of Information Science, Academia Sinica
 
-     * Address:
-        * 128 Academia Road, Section 2, Nankang, Taipei 115, Taiwan., Taipei (Taiwan)
-        * http://academiasinicanlplab.github.io/
-        
-    * Lab assistantship as part of the program, working on:
+{% endcomment %}  
+> * 2015 - 2016 : Research Assistant 
+>   * Institution:  NLPLab at Institute of Information Science, Academia Sinica
+>    * Address: 128 Academia Road, Section 2, Nankang, Taipei 115, Taiwan
+>    * Website: http://academiasinicanlplab.github.io/
+
+{% comment %}
+
+   * Lab assistantship as part of the program, working on:
       * Semantic Role Labeling (NLP)
         * Re-implement a Pyhton SRL system in Java (Using StanfordNLP)
         
@@ -65,14 +71,34 @@ Work experience
         * Emotion Detection
         * Emotion Visualization 
         * User Studies using CrowdSourcing and GWAPs
+
+{% endcomment %}
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* IT Governance
+  * Enterprise Resource Planning  
+  * Learning Management System
+  * e-Commerce
+* Project Management
+  * Cost, Resource and Activity Planning and Sequencing
+  * Scope Planning and Definition
+  * Risk and Issue Management
+  * Scalability, Interoperability and Portability Analysis
+* Natural Language Processing 
+  * Languages: Python and Java, 
+  * Tools/Libraries:   NLTK and Stanford CoreNLP
+  * Semantic Role Labeling 
+  * Sentiment Analysis
+  * User Studies using CrowdSourcing and GWAPs   
+* Data Mining and Information Retrieval 
+    *  Languages: R, Python, Java
+    *  Tools/Libraries:  Whoosh, ElasticSearch and TextBlob
+     *  Social Media Data Retrieval and Pre-processing
+* Machine Learning
+    * Languages: Java, R, Python,
+    * Tools/Libraries:  Scikit-learn and Wekka
+      
 
 Publications
 ======
