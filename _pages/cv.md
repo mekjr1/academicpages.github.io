@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -18,11 +18,12 @@ Education
 
 Work experience
 ======
-* 2012–Present: Chief Information Officer (Senior ICT Specialist) @ NM Technology Services & Solution
-  * Address: 
-    * 7o Bairro Matacuane, 155, 00000 Beira (Mozambique)
-    * www.nmtss.net
-  * Duties: 
+> * 2012–Present: Chief Information Officer (Senior ICT Specialist) @ NM Technology Services & Solution
+>  * Address: 
+>     * 7o Bairro Matacuane, 155, 00000 Beira (Mozambique)
+>      * www.nmtss.net
+ {% comment %} 
+ * Duties: 
      * Assess infrastructure on a regular basis to ensure it continues to meet  necessary demands
     * Manage daily operations of the IT department
     * Develop new strategies and IT procedures to increase efficiency, enhance workflow and improve customer satisfaction
@@ -31,7 +32,7 @@ Work experience
     * Assist with the installation of new hardware and software and help train employees on its use
     * Manage and oversee departmental quotas
     * Offer suggestions for possible upgrades and changes within the IT department
-
+{% endcomment %}
 * 2018 - Present: Project Manager @ SD Consultores & Servicos (Consultant)
    * Address: 
       * Av. Francisico Manyanga, nr. 27, Bairro Central, Nampula, Beira (Mozambique)
