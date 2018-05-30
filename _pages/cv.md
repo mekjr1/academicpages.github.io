@@ -11,22 +11,59 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* M.Tech. in  Systems Integration & e-Government, , 2012
+* B.S. in Information Technology, Catholic University of Mozambique, 2010
+
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2012–Present: Chief Information Officer (Senior ICT Specialist) @ NM Technology Services & Solution
+  * Address: 
+    * 7o Bairro Matacuane, 155, 00000 Beira (Mozambique)
+    * www.nmtss.net
+  * Duties: 
+     * Assess infrastructure on a regular basis to ensure it continues to meet  necessary demands
+    * Manage daily operations of the IT department
+    * Develop new strategies and IT procedures to increase efficiency, enhance workflow and improve customer satisfaction
+    * Coordinate the needs of in-house IT experts and remote employees, vendors and contractors
+    * Protect customer data from outside infiltration through encryption, secure data storage and other necessary means
+    * Assist with the installation of new hardware and software and help train employees on its use
+    * Manage and oversee departmental quotas
+    * Offer suggestions for possible upgrades and changes within the IT department
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018 - Present: Project Manager @ SD Consultores & Servicos (Consultant)
+   * Address: 
+      * Av. Francisico Manyanga, nr. 27, Bairro Central, Nampula, Beira (Mozambique)
+      * www.sdconsult.co.za
+   * Duties
+      * Planning and Defining Scope
+      * Cost, Resource and Activity Planning and Sequencing
+      * Team Leadership 
+      * Developing a Budget
+      * Risk and Issue Management
+      * Progress Monitoring and Reporting 
+      * Team Leadership
+      * Scalability, Interoperability and Portability Analysis
+      * Quality Control
   
+* 2015 - 2016 : Research Assistant @ NLPLab at Institute of Information Science, Academia Sinica
+
+     * Address:
+        * 128 Academia Road, Section 2, Nankang, Taipei 115, Taiwan., Taipei (Taiwan)
+        * http://academiasinicanlplab.github.io/
+        
+    * Lab assistantship as part of the program, working on:
+      * Semantic Role Labeling (NLP)
+        * Re-implement a Pyhton SRL system in Java (Using StanfordNLP)
+        
+      * Data Mining and Information Retrieval
+        *  Information Retrieval Whoosh, ElasticSearch and
+        *  Social Media Data Retrieval and Pre-processing
+      * Sentiment Analysis (NLP, Machine Learning)
+        * Emotion Detection
+        * Emotion Visualization 
+        * User Studies using CrowdSourcing and GWAPs
 Skills
 ======
 * Skill 1
