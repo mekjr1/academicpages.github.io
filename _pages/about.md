@@ -33,6 +33,6 @@ In the first phase we aim at providing small farmers with means to access high q
 ### Learning Management System Upgrading for Scripting Academy
 One paper is accepted by ICLR 2018.
 
-I will join FAIR as a 2018 summber intern, advised by Kaiming He.
+I will join FAIR as a 2018 summber intern, advised by Kaiming He. 
 
 ### Mobile ( Android and IOS) Clients for Catholic University of Mozambique's eSURA Platform
