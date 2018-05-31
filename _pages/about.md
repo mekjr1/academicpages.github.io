@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: >- About Abdul Meque
+title: " About Abdul Meque "
 excerpt: About me
 author_profile: true
 redirect_from:
