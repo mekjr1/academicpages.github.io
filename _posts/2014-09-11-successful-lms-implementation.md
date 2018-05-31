@@ -1,7 +1,7 @@
 ---
 title: 'What are the most effective tips for Successful LMS Implementation as a the main Learning & Development tool?'
 date: 2014-09-11
-permalink: /posts/2012/08/successful-lms-implementation/
+permalink: /posts/2014/09/successful-lms-implementation/
 tags:
   - Ideas and Tips
   - LMS
