@@ -7,7 +7,7 @@ tags:
   - category1
   - category2
 ---
-# Machine Learning for Software Engineers
+Machine Learning for Software Engineers
 Inspired by [Google Interview University](https://github.com/jwasham/google-interview-university).
 
 _If you like this project, please give me a star._ &#9733;
