@@ -1,7 +1,7 @@
 ---
 title: 'Coding Interview University'
 date: 2018-02-16
-permalink: /posts/2018/02/coding-coding-university/
+permalink: /posts/2018/02/coding-interview-university/
 tags:
   - Software Engineering
   - Self-Study
