@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "ASE: Advance Software Engineering"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2018-spring-advanced-software-engineering
@@ -7,10 +7,15 @@ venue: "University 1, Department"
 date: 2018-05-18
 location: "City, Country"
 ---
-# Advanced Sofware Engineering 2018
 
-This repository contains the material for the "Advanced Software
-Engineering" course at Distance Education Center@Catholic University of Mozambique, 2018 edition.
+This repository contains the material for the Masters's degree course "Advanced Software
+Engineering" at Distance Education Center@Catholic University of Mozambique, 2018 edition.
+
+> After this course students will be able to choose and implement the better software process and methodology to carry out a software project according to the project context and the organization structure.
+> Student will acquire knowledge of the importance of quality assurance and how achieve high quality standards using documented and automated tests.
+> Also the student will know how to measure in terms of size, complexity and quality a software development. This ability will be useful in the task of cost-estimation.
+
+
 
 Syllabus: 
 
