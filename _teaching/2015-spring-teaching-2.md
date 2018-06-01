@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 2"
+title: "MIT 605 :Desenho e Implementação de Sistemas"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
@@ -7,16 +7,16 @@ venue: "University 1, Department"
 date: 2015-01-01
 location: "City, Country"
 ---
-Implementação de Sistemas
 
-    Anúncios Forum
-    News forum
+The course is being administered in Portguese-only this time around, thus, the contents here are still being updated to reflect that
+Este modulo esta sendo administrado em Portugues nesse semestre, por esse motivo, o material esta em atualizacao.
 
-Information Systems
 
-Objetivos de aprendizado
+## Topico 1. Sistemas de Informação
 
-    Definir informações, sistemas, sistemas de informação e tecnologia da informação.
+### Objetivos de aprendizado
+
+    Definir informação, sistemas, sistemas de informação e tecnologia da informação.
     Aprender sobre os elementos de base da tecnologia da informação.
     Compreender a diferença entre sistemas de informação e aplicações de software.
     Aprender sobre o negócio de fazer sistemas de informação.
@@ -28,9 +28,9 @@ Objetivos de aprendizado
     Slide1 File
     Quiz 1
 
-The Concept of Object Orientation
+## Topic 2. O Conceito de Orientação a Objectos
 
-Objetivos de aprendizado
+### Objetivos de aprendizado
 
     Entender sobre  Objetos e sua identidade, atributos, operações e estado.
     Entender mais sobre classes, superclasses, subclasses e hierarquia de classes.
@@ -41,7 +41,6 @@ Objetivos de aprendizado
     Conheçer as origens da tecnologia orientada a objetos.
     Descrever a modelagem orientada a objeto e a linguagem de modelagem unificada (UML).
 
-Resultado de imagem para The Concept of Object Orientation
 
     Reading Materials
 
@@ -49,9 +48,9 @@ Resultado de imagem para The Concept of Object Orientation
     Topic 2 Reading Material File
     Slide 2 File
 
-Methodology
+## Topico 3. Metodologia
 
-Objectivos de Aprendizagem
+### Objectivos de Aprendizagem
 
     Saiber mais sobre metodologia, seus conceitos fundamentais e seus elementos de base.
     Descrever benefícios e riscos de metodologia.
@@ -65,9 +64,10 @@ Objectivos de Aprendizagem
     Topic 3 Reading Material File
     Slide 3 File
 
-Project Management
+## Topico 4. Gestao de Projectos
 
-     Objetivos de aprendizado
+### Objectivos de Aprendizagem
+
          Define Project Management.
          Identificar os objetivos dos projetos bem-sucedidos.
         Identificar os ciclos de vida do projeto.
@@ -84,9 +84,10 @@ Project Management
     Slide 4 File
     Topic 4 Reading Material File
 
-Gathering Requirements
+## Topico 5. Colecata de Requisitos
 
-Objetivos de Aprendizados
+### Objectivos de Aprendizagem
+
 
          Definir requisitos e explicar a diferença entre a descoberta de requisitos e a coleta de requisitos.
          Classificar os requisitos e conhecer técnicas para obter requisitos.
@@ -102,8 +103,9 @@ Objetivos de Aprendizados
     Topic 5 Reading Material Part 2 File
     Quiz Sobre o Capitulo 4
 
-Behavorial/Functional Modeling
-Objetivos de aprendizado
+## Topico 6. Modelagem Funcional
+
+### Objectivos de Aprendizagem
 
          Descrever o que a modelagem do caso de uso é e não é.
          Descrever os quatro componentes de um caso de uso e os elementos básicos do diagrama de casos de uso.
@@ -123,8 +125,10 @@ Objetivos de aprendizado
     Quiz Capitulo 6 e 7
     Trabalho 1 Submeter 22 Out File
 
-Structural Modeling - Class Diagramming
-Objetivos de aprendizado
+## Topico 7. Modelagem Estructural
+
+### Objectivos de Aprendizagem
+
 
          Descrever a modelagem estrutural no contexto de um sistema de informação conceitual.
          Compreender as classes como blocos de construção de modelos estruturais e objetos como unidades de sistemas de informação.
@@ -143,12 +147,10 @@ Objetivos de aprendizado
     Assignment 2 Due before 15 April 2015 File
     Hidden from students 
 
-Topic 8
-Hidden from students
+## Topico 8. Modelagem Dinamica
 
-Dynamic Modeling
+### Objectivos de Aprendizagem
 
-    Learning Objectives
         Describe Dynamic modeling and its relationship with behavioral and structural modeling.
         Show how objects interact by exchanging messages.
         Define The role of parameters and return values in exchanging messages.
@@ -162,12 +164,10 @@ Dynamic Modeling
     Topic 8 Reading Material Part 1 File
     Topic 8 Reading Material Part 2 File
 
-Topic 9
-Hidden from students
+## Topico 9. Design
 
-Design
+### Objectivos de Aprendizagem
 
-    Learning Objectives
         Learn about design & its place in the development process.
         Understand how to move from analysis to design.
         Understand the difference between logical design and physical design.
@@ -181,12 +181,10 @@ Design
     Topic 9 Reading Material Part 1 File
     Topic 9 Reading Material Part 2 File
 
-Topic 10
-Hidden from students
+## Topico 10. Design de Aplicativo: Base de Dados e Persistencia
 
-Application Design : Database & Persistence
+### Objectivos de Aprendizagem
 
-    Learning Objectives
         Learn about data, data management & Database management systems
         Understand the relational model & its major components.
         Describe database mechanisms that safeguard data integrity.
@@ -200,8 +198,9 @@ Application Design : Database & Persistence
     Topic 10 Reading Material Part 2 File
     Topic 10 Reading Material Part 3 File
 
-Topic 11
-Hidden from students
+## Topico 11. Interacao Homemm-Computador
+
+### Objectivos de Aprendizagem
 
 Human–Computer Interaction Layer Design
 
@@ -219,12 +218,10 @@ Human–Computer Interaction Layer Design
     Topic 11 Reading Material Part 1 File
     Topic 11 Reading Material Part 2 File
 
-Topic 12
-Hidden from students
+## Topico 12. Implementacao
 
-Implementation
+### Objectivos de Aprendizagem
 
-    Learning Objectives
         Define coding.
         Describe programming languages & tools.
         Learn about coding standards & code review.
@@ -236,18 +233,3 @@ Implementation
     Chapter 17 of Textbook
     Slide 12 File
     Topic 12 Reading Material File
-
-Topic 13
-Hidden from students
-Final Exam :  Saturday, Ma6 16, 2015. Time : 11.00 am - 3.00pm
-
-
-
-    Final Exam Quiz
-    Final Exam File
-
-Topic 14
-Hidden from students
-Resit Exam - To be announced later.
-
-    MIT605 Resit Exam
