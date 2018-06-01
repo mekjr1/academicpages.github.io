@@ -1,15 +1,15 @@
 ---
-title: "MIT 605 :Desenho e Implementação de Sistemas"
+title: "MIT 605: Desenho e Implementação de Sistemas"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+permalink: /teaching/2018-desenho-implementacao-sistemas
+venue: "Faculty of Economics and Management, New Building room 202"
+date: 2018-04-01
+location: "Beira, Mozambique"
 ---
 
-The course is being administered in Portguese-only this time around, thus, the contents here are still being updated to reflect that
-Este modulo esta sendo administrado em Portugues nesse semestre, por esse motivo, o material esta em atualizacao.
+> The course is being administered in Portguese-only this time around, thus, the contents here are still being updated to reflect that.
+> Este modulo esta sendo administrado em Portugues nesse semestre, por esse motivo, o material esta em atualizacao.
 
 
 ## Topico 1. Sistemas de Informação
