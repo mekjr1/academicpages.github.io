@@ -3,7 +3,7 @@ title: "An ontology-based comparative study of standards for
 business process engineering"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'or the current work, I joined the Laboratory for Applied ontology as an intern, conducting
+excerpt: 'For the current work, I joined the Laboratory for Applied ontology as an intern, conducting
 research on the BPMLs and methodologies, reviewing the works done by Aagesen and Krogstie in
 (Aagesen, et al., 2010), and Recker and others (Recker, et al., 2008), (Recker, et al., 2005), Recker
 and Rosemann (Recker, et al., 2007) and Gruninger in (Gruninger, 2009), and also conducting my
@@ -11,7 +11,7 @@ own studies, evaluating the languages premises with respect to DOLCE (Descriptiv
 Linguistics and Cognitive Engineering) (Masolo, et al. 2003)'
 date: 2012-09-13
 venue: 'University of Trento Library'
-paperurl: 'http://mekjr1.github.io/files/AbdulMeque-thesis.pdff'
+paperurl: 'http://mekjr1.github.io/files/AbdulMeque-thesis.pdf'
 citation: 'Meque, Abdul. (2012). &quot;An ontology-based comparative study of standards for
 business process engineering.&quot; <i>University of Trento Library</i>. 1(2).'
 ---
