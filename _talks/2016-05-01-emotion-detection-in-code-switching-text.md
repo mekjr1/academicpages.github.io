@@ -9,9 +9,6 @@ location: "Tapei, TW"
 ---
 
 
-## Emotion Detection in Code-switching Texts via Bilingual and Sentimental Information
-
-
 > Zhongqing Wang,. Natural Language Processing Lab, Soochow University, Suzhou, China 
 Department of Chinese and Bilingual Studies, The Hong Kong Polytechnic University
 
