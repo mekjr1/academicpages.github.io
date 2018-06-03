@@ -2,7 +2,7 @@
 title: "An ontology-based comparative study of standards for
 business process engineering"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2012-09-13-an-ontology-based-comparative-study-standards-business-process-engineering
 excerpt: 'For the current work, I joined the Laboratory for Applied ontology as an intern, conducting
 research on the BPMLs and methodologies, reviewing the works done by Aagesen and Krogstie in
 (Aagesen, et al., 2010), and Recker and others (Recker, et al., 2008), (Recker, et al., 2005), Recker
