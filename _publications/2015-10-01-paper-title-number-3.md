@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 3"
+title: "Mining Reddit Data: Opinion Mining on Social Media data"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2015-10-01-mining-reddit-data
+excerpt: 'This a small project report in Data Mining using Python, we employed Data Analysis techniques and Sentiment Analysis on the data to find the polarity of opnions from reddit users preceding a basquetball game. '
+date: 2016-03-01
+venue: 'IIS Digital Repository'
+paperurl: 'http://academicpages.github.io/files/MiningRedditData.pdf'
+citation: 'Meque, Abdul et all. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+This a small project report in Data Mining using Python, we employed Data Analysis techniques and Sentiment Analysis on the data to find the polarity of opnions from reddit users preceding a basquetball game. We ended up finding a direct correlation between opinions and results of a match with a high degree of certainty.
 
 [Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
