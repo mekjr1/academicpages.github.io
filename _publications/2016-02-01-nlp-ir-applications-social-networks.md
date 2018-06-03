@@ -16,4 +16,4 @@ where examined and the end system, has proven to greatly outperform the baseline
 
 [Download paper here](http://mekjr1.github.io/files/AbdulMeque-NLPandIRApplicationsinSocialNetworkFinalProject.pdf)
 
----Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+
