@@ -1,9 +1,9 @@
 ---
 title: "MIT 605: Desenho e Implementação de Sistemas"
 collection: teaching
-type: "Workshop"
+type: "Graduate Course"
 permalink: /teaching/2018-desenho-implementacao-sistemas
-venue: "Faculty of Economics and Management, New Building room 202"
+venue: "Distance Education Center @UCM, IT Department"
 date: 2018-04-01
 location: "Beira, Mozambique"
 ---
@@ -84,7 +84,7 @@ location: "Beira, Mozambique"
     Slide 4 File
     Topic 4 Reading Material File
 
-## Topico 5. Colecata de Requisitos
+## Topico 5. Colecta de Requisitos
 
 ### Objectivos de Aprendizagem
 

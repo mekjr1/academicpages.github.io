@@ -1,11 +1,11 @@
 ---
 title: "ASE: Advance Software Engineering"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate course"
 permalink: /teaching/2018-spring-advanced-software-engineering
-venue: "University 1, Department"
+venue: "Distance Education Center @UCM, IT Department"
 date: 2018-05-18
-location: "City, Country"
+location: "Beira, Mozambique"
 ---
 
 This repository contains the material for the Masters's degree course "Advanced Software
