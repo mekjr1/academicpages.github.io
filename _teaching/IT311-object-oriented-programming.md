@@ -54,7 +54,7 @@ location: "Beira, Mozambique"
     -   Cast primitive data types and objects
     -   Compare objects and determine the class of an objects
     
-    -   [![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/pdf-24)OOP Night Debate 1 File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=12033)
+[![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/pdf-24)OOP Night Debate 1 File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=12033)
         
     
 ### Custom-made Classes & Java Packages
@@ -75,9 +75,9 @@ location: "Beira, Mozambique"
     -   Import and use classes from other packages
     -   Manage sources and class files
     
-    -   [![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/pdf-24)Debate 2  File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=12034)
+[![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/pdf-24)Debate 2  File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=12034)
         
-    -   [![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/archive-24)Workshop 2 File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=12341)
+[![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/archive-24)Workshop 2 File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=12341)
         
     
 ### Inheritance
@@ -93,9 +93,9 @@ location: "Beira, Mozambique"
     -   Type casting
     -   Final class and final methods
     
-    -   [![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/archive-24)Workshop 3 File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=12342)
+[![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/archive-24)Workshop 3 File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=12342)
         
-    -   [![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/pdf-24)Lecture 3 Inheritance File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=12349)
+[![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/pdf-24)Lecture 3 Inheritance File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=12349)
         
     
 ### Abstract class and Java Interface
@@ -112,7 +112,7 @@ location: "Beira, Mozambique"
     -   Interface and Polymorphism
     -   Rewriting an Interface
     
-    -   [![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/pdf-24)Lecture 4: Abstract class and Interface File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=12350)
+[![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/pdf-24)Lecture 4: Abstract class and Interface File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=12350)
         
     
 ### Polymorphism & Inner class
@@ -129,9 +129,9 @@ location: "Beira, Mozambique"
     -   Accessing Members of Outer class within an Inner class
     -   Java Program Structure: Inner Classes
     
-    -   [![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/pdf-24)Lecture 5A File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=12410)
+[![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/pdf-24)Lecture 5A File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=12410)
         
-    -   [![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/pdf-24)Lecture 5B File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=12409)
+[![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/pdf-24)Lecture 5B File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=12409)
         
     
 ### Exception Handling
@@ -147,11 +147,11 @@ location: "Beira, Mozambique"
     -   Checked exception and unchecked exception
     -   Creating your own exception class OO Design Patterns
     
-    -   [![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/url/1527058911/icon)Exceptions on Java documentation URL](http://portal.ucm.ac.mz/moodle/mod/url/view.php?id=12625)
+[![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/url/1527058911/icon)Exceptions on Java documentation URL](http://portal.ucm.ac.mz/moodle/mod/url/view.php?id=12625)
         
         Make sure the entire topic of exceptions and try the exercises
         
-    -   [![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/pdf-24)Exceptions File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=12866)
+[![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/pdf-24)Exceptions File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=12866)
         
     
 ### OO Design Patterns & Testing

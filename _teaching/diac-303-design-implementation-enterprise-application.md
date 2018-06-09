@@ -60,11 +60,11 @@ location: "Beira, Mozambique"
     
     [Hunter Jason, Crawford William _Java Servlet Programming_](http://portal.ucm.ac.mz/moodle/pluginfile.php/2066/course/section/767/Hunter%20Jason%2C%20Crawford%20William%20Java%20Servlet%20Programming.pdf)
     
-    -   [![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/pdf-24)Pauta de Admissao File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=12894)
+[![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/pdf-24)Pauta de Admissao File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=12894)
         
-    -   [![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/quiz/1527058911/icon)kkk Quiz](http://portal.ucm.ac.mz/moodle/mod/quiz/view.php?id=17027)
+[![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/quiz/1527058911/icon)kkk Quiz](http://portal.ucm.ac.mz/moodle/mod/quiz/view.php?id=17027)
         
- ## Topic outline   
+## Topic outline   
 ### Introduction Enterprise Application
     
 #### Overview and Setup
@@ -86,19 +86,13 @@ location: "Beira, Mozambique"
     -   The servlet life cycle
     -   Servlet debugging strategies
     
-    -   [![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/pdf-24)Lecture 1  File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=11983)
+[![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/pdf-24)Lecture 1  File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=11983)
+               
+[![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/pdf-24)Lecture File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=11984)
+                
+[![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/archive-24)WorkShop 1 File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=12343)
         
-        Lecture 1, talking about the first part of the first topic
-        
-    -   [![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/pdf-24)Lecture File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=11984)
-        
-        Lecture 2, talks about the second part of the topic 1
-        
-    -   [![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/archive-24)WorkShop 1 File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=12343)
-        
-        First Workshop, some testing and running servlets
-        
-    -   [![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/pdf-24)Exercicio 1 File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=12394)
+[![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/pdf-24)Exercicio 1 File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=12394)
         
     
 ### Handling Client Request
@@ -121,17 +115,13 @@ location: "Beira, Mozambique"
     -   Reducing download times by compressing pages
     -   Differentiating among types of browsers
     
-    -   [![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/pdf-24)Lecture 3 File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=11985)
+[![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/pdf-24)Lecture 3 File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=11985)
+               
+[![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/pdf-24)Lecture 4  File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=12036)        
+       
+[![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/archive-24)Exercicio 2 Correcao File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=12395)
         
-        Lecture 3 talks about Form Data handling
-        
-    -   [![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/pdf-24)Lecture 4  File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=12036)
-        
-        Lecture 4, talking about request headers
-        
-    -   [![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/archive-24)Exercicio 2 Correcao File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=12395)
-        
-    -   [![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/archive-24)Exercicio 2 File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=12398)
+[![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/archive-24)Exercicio 2 File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=12398)
         
     
 ### Response Generation
@@ -154,11 +144,11 @@ location: "Beira, Mozambique"
     -   Generating JPEG images dynamically
     -   Sending incremental updates to the browser
     
-    -   [![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/pdf-24)Lecture 5 File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=12037)
+[![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/pdf-24)Lecture 5 File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=12037)
         
-    -   [![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/assign/1527058911/icon)Assignment 3](http://portal.ucm.ac.mz/moodle/mod/assign/view.php?id=12057)
+[![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/assign/1527058911/icon)Assignment 3](http://portal.ucm.ac.mz/moodle/mod/assign/view.php?id=12057)
         
-    -   [![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/pdf-24)Exercicio 3 File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=12401)
+[![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/pdf-24)Exercicio 3 File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=12401)
         
     
 ### Cookies and Session Tracking
@@ -188,13 +178,13 @@ location: "Beira, Mozambique"
     -   Implementing a shopping cart
     -   Building an online store
     
-    -   [![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/assign/1527058911/icon)Assignment 4](http://portal.ucm.ac.mz/moodle/mod/assign/view.php?id=12058)
+[![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/assign/1527058911/icon)Assignment 4](http://portal.ucm.ac.mz/moodle/mod/assign/view.php?id=12058)
         
-    -   [![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/pdf-24)MidTerm Correction File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=12453)
+[![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/pdf-24)MidTerm Correction File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=12453)
         
-    -   [![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/pdf-24)Session Tracking Lecture File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=12864)
+[![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/pdf-24)Session Tracking Lecture File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=12864)
         
-    -   [![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/pdf-24)Cookies Lecture File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=12865)
+[![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/pdf-24)Cookies Lecture File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=12865)
         
     
 ### Intro to JSP and Scripting Elements
@@ -220,9 +210,9 @@ location: "Beira, Mozambique"
     -   Predefined variables
     -   Comparison of expressions, scriptlets, and declarations
     
-    -   [![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/pdf-24)JSP Intro File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=12867)
+[![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/pdf-24)JSP Intro File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=12867)
         
-    -   [![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/pdf-24)Scripting Elements Lecture File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=12868)
+[![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/pdf-24)Scripting Elements Lecture File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=12868)
         
     
 ### Advanced Topics on JSP
@@ -245,9 +235,9 @@ location: "Beira, Mozambique"
     -   Understanding why jsp:include is usually better than the include directive
     -   Using jsp:plugin to include applets for the Java Plug-in
     
-    -   [![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/pdf-24)Page Directive File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=12869)
+[![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/pdf-24)Page Directive File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=12869)
         
-    -   [![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/pdf-24)File Inclusion](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=12870)
+[![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/pdf-24)File Inclusion](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=12870)
         
     
 ### JavaBeans and MVC Architecture With JSP and Servlets
@@ -271,11 +261,11 @@ location: "Beira, Mozambique"
     -   Choosing among different display options
     -   Comparing data-sharing strategies
     
-    -   [![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/pdf-24)JavaBeans File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=12884)
+[![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/pdf-24)JavaBeans File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=12884)
         
-    -   [![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/pdf-24)MVC Lecture File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=12885)
+[![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/pdf-24)MVC Lecture File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=12885)
         
-    -   [![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/archive-24)Todos os Codes File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=12887)
+[![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/archive-24)Todos os Codes File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=12887)
         
     
 ### Expression Language and Web App Deployment
@@ -298,7 +288,7 @@ location: "Beira, Mozambique"
     -   Giving custom addresses to servlets
     -   Sharing data among Web applications
     
-    -   [![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/pdf-24)Expression Language File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=12886)
+[![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/pdf-24)Expression Language File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=12886)
         
     
 ### Web Application Behavior and Tag Libraries
