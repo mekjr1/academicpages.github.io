@@ -1,5 +1,5 @@
 ---
-title: "DIAC 303: design-implementation-enterprise-application"
+title: "DIAC 303: Desing and Implementation of Enterprise Application"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/diac-303-design-implementation-enterprise-application
