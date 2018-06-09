@@ -50,15 +50,15 @@ location: "Beira, Mozambique"
     
 **MANDATORY Reading**:
     
-    [Java EE 6 tutorial (PDF)](http://docs.oracle.com/javaee/6/tutorial/doc/javaeetutorial6.pdf)
+[Java EE 6 tutorial (PDF)](http://docs.oracle.com/javaee/6/tutorial/doc/javaeetutorial6.pdf)
     
-    [Hans Bergsten,Building Web Based User Interface (PDF), only Chapter 1](http://oreilly.com/catalog/jsvrfaces/chapter/ch01.pdf)
+[Hans Bergsten,Building Web Based User Interface (PDF), only Chapter 1](http://oreilly.com/catalog/jsvrfaces/chapter/ch01.pdf)
     
 **ADITIONAL Reading:**
     
-    Annunziato José, Fesler Kaminaris Stephanie _Java Server Pages in 24 hours_
+Annunziato José, Fesler Kaminaris Stephanie _Java Server Pages in 24 hours_
     
-    [Hunter Jason, Crawford William _Java Servlet Programming_](http://portal.ucm.ac.mz/moodle/pluginfile.php/2066/course/section/767/Hunter%20Jason%2C%20Crawford%20William%20Java%20Servlet%20Programming.pdf)
+[Hunter Jason, Crawford William _Java Servlet Programming_](http://portal.ucm.ac.mz/moodle/pluginfile.php/2066/course/section/767/Hunter%20Jason%2C%20Crawford%20William%20Java%20Servlet%20Programming.pdf)
     
 [![ ](http://portal.ucm.ac.mz/moodle/theme/image.php/boost/core/1527058911/f/pdf-24)Pauta de Admissao File](http://portal.ucm.ac.mz/moodle/mod/resource/view.php?id=12894)
         
