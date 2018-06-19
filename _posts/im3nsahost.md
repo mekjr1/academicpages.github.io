@@ -1,4 +1,12 @@
-
+---
+title: 'Im3nsa: a shallow view on the Hosting requirements'
+date: 2018-02-18
+permalink: /posts/2018/02/im3nsa-hosting/
+tags:
+  - cool posts
+  - python
+  - im3nsa
+---
 # Hosting
 
 Due to the complexity of properly hosting Im3nsa, it is not recommended to try to host Im3nsa yourself for anything but the largest of installations. Instead, use one of the hosted service providers that have expertise in doing so.
@@ -10,7 +18,7 @@ For a highly available installation, you will require:
 -   n+1 web servers front ends running the Message Mage frontend
 -   A PostgreSQL server with a hot standby
 -   A Redis server with a hot standby
--   n+1 Celery instances for each of the RapidPro queues. (celery, msgs, flows, handler)
+-   n+1 Celery instances for each of the Im3nsa queues. (celery, msgs, flows, handler)
 
 ![](http://rapidpro.github.io/rapidpro/images/hosting.png)
 

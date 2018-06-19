@@ -1,4 +1,12 @@
-
+---
+title: 'Im3nsa: Try it your self the Hosting requirements'
+date: 2018-02-18
+permalink: /posts/2018/02/im3nsa-development/
+tags:
+  - cool posts
+  - python
+  - im3nsa
+---
 # Im3nsa Development Server
 
 Im3nsa comes with everything you need to quickly get started with development. Note that development and deployment has only been tested on OSX and Ubuntu, you’ll likely need to modify the directions below if using Windows.
@@ -48,19 +56,19 @@ temba=# create extension "uuid-ossp";
 CREATE EXTENSION
 ```
 
-## Clone RapidPro
+## Clone Im3nsa
 
-Now clone the RapidPro repository and link up the development settings:
+Now clone the Im3nsa repository and link up the development settings:
 
 ```bash
 $ git clone git@github.com:im3nsa/im3nsa.git
-$ cd rapidpro
+$ cd Im3nsa
 $ ln -s temba/settings.py.dev temba/settings.py
 ```
 
 ## Build virtual environment
 
-You should always use a virtual environment to run your RapidPro installation. The pinned dependencies for RapidPro can be found in  `pip-freeze.txt`. You can build the needed environment as follows (from the root rapidpro directory):
+You should always use a virtual environment to run your Im3nsa installation. The pinned dependencies for Im3nsa can be found in  `pip-freeze.txt`. You can build the needed environment as follows (from the root im3nsa directory):
 
 ```bash
 $ virtualenv env
