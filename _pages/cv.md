@@ -20,11 +20,9 @@ Education
 Work experience
 ======
 ### 2012–Present: CTO and Senior Systems Analyst and Developer (Consultant)
-
-    Company: NM Technology Services & Solution
-    Address:  7o Bairro Matacuane, 155, Beira, Mozambique
-    Website: www.nmtss.net
-
+   * Company: NM Technology Services & Solution
+   * Address:  7o Bairro Matacuane, 155, Beira, Mozambique
+   * Website: www.nmtss.net
    * Duties: 
 	    * Lead Software Development projects Inception and Solution Design
 	    * Oversee Developers and IT Support Personnel and activities
@@ -35,11 +33,9 @@ Work experience
 
 
 ### 2017 - Present: Project Manager and Senior DevOps Engineer (Remote)
-
-    Company: SD Consultores e Servicos
-    Address:  Av. Francisico Manyanga, nr. 27, Bairro Central, Nampula, Mozambique
-    Website:  www.sdconsultores.co.za
-
+   * Company: NM Technology Services & Solution
+   * Address:  Av. Francisico Manyanga, nr. 27, Bairro Central, Nampula, Mozambique
+    * Website:  www.sdconsultores.co.za
    * Duties
 	    * As a PM
 	      * Take charge of IT Project Scoping and Planning (Budget, Resource, Tasks and Time)
@@ -58,13 +54,10 @@ Work experience
 	Business or sector Consultancy
 
 ### 2011 - Present : Lecturer & Deputy IT Department Coordinator
-
-    Institution: Catholic University of Mozambique
-    Address: Av. Eduardo Mondlane, 149 C.P. 821, 2104 Beira (Mozambique)
-    Website: http://www.ucm.ac.mz
-
-   
-   * Duties
+   * Institution: Catholic University of Mozambique
+    * Address: Av. Eduardo Mondlane, 149 C.P. 821, 2104 Beira (Mozambique)
+    * Website: http://www.ucm.ac.mz
+    * Duties
 	   * Coordinate Courses, Resources and Personnel (Scheduling, Planning, Allocation)
 	   * Oversee IT students suport services and activities
 	   * Monitor Student progress
@@ -83,11 +76,9 @@ Work experience
 				* Advanced Software Engineering ( Grad )
          
 ### 2015 - 2016 : Research Assistant 
-
-    Institution:  NLPLab at Institute of Information Science, Academia Sinica
-    Address: 128 Academia Road, Section 2, Nankang, Taipei 115, Taiwan
-    Website: http://academiasinicanlplab.github.io/
-
+   * Institution:  NLPLab at Institute of Information Science, Academia Sinica
+   * Address: 128 Academia Road, Section 2, Nankang, Taipei 115, Taiwan
+   * Website: http://academiasinicanlplab.github.io/
    * Duties
 	   * Lab assistantship as part of the program, working on:
 	      * Semantic Role Labeling (NLP)
@@ -161,4 +152,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently ...
+* Currently signed in to 43 different slack teams
