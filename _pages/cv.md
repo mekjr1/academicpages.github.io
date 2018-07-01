@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
- * 2012–Present: CTO and Senior Systems Analyst and Developer (Consultant)
+### 2012–Present: CTO and Senior Systems Analyst and Developer (Consultant)
    * Company: NM Technology Services & Solution
    * Address:  7o Bairro Matacuane, 155, Beira, Mozambique
    * Website: www.nmtss.net
@@ -31,7 +31,7 @@ Work experience
 	    * Maintain Company's Internal processes and procedures
 
 
- * 2017 - Present: Project Manager and Senior DevOps Engineer (Remote)
+### 2017 - Present: Project Manager and Senior DevOps Engineer (Remote)
    * Address:  Av. Francisico Manyanga, nr. 27, Bairro Central, Nampula, Mozambique
     * Website:  www.sdconsultores.co.za
    * Duties
@@ -42,7 +42,7 @@ Work experience
 	      * Enforce company's procedures and Standards(Operations and Support);
 	      * Conduct Control (budget, product, Tasks and SLA );
 	      * Provide Team Leadership
-	 * As a DevOpsParticipate in:
+	 * As a DevOps, participate in:
 	      * Build and maintain tools for deployment, monitoring and operations.
 	      * Troubleshoot and resolve issues in our dev, test and production environments.
 	      * Provide support to resolve and/or escalate production incidents including support during
@@ -51,7 +51,7 @@ Work experience
 	      * Guarantee systems performance and availability, data integrity, and security.
 	Business or sector Consultancy
 
- * 2011 - Present : Lecturer & Deputy IT Department Coordinator
+### 2011 - Present : Lecturer & Deputy IT Department Coordinator
    * Institution: Catholic University of Mozambique
     * Address: Av. Eduardo Mondlane, 149 C.P. 821, 2104 Beira (Mozambique)
     * Website: http://www.ucm.ac.mz
@@ -73,7 +73,7 @@ Work experience
 				* Enterprise Web Application Design and Internet Governance ( Grad)
 				* Advanced Software Engineering ( Grad )
          
- * 2015 - 2016 : Research Assistant 
+### 2015 - 2016 : Research Assistant 
    * Institution:  NLPLab at Institute of Information Science, Academia Sinica
    * Address: 128 Academia Road, Section 2, Nankang, Taipei 115, Taiwan
    * Website: http://academiasinicanlplab.github.io/
@@ -102,6 +102,7 @@ Skills
   * JS/CSS/HTML: Node.js, React.js JQuery, Less,Coffee, Markdown, Haml  
   * DevOps: **nginx, Apache, Tomcat, GlassFish**, Redis, **Apache Ant**, Apache Maven, **Gradle, nmp, Ansible**, **Travis, Circle**, *Vagrant*, *Ansible, Kubernetes, Docker*
    *  Cloud Engines/PaaS: **Heroku**, OpenShift, **Google Cloud**, AWS 
+
 #### Enterprise Applications (Customization, Configuration, Deployment)
   * Knowledge Management System
     * LMS : Moodle, Atutor
@@ -115,12 +116,14 @@ Skills
   * Risk and Issue Management
   * Scalability, Interoperability and Portability Analysis
   * Tools and Standards: ITIL, ASL, CMM, ISO 9000
+
 #### Natural Language Processing 
   * Languages: Python and Java, 
   * Tools/Libraries:   TextBlob, NLTK and Stanford CoreNLP
   * Semantic Role Labeling 
   * Sentiment Analysis
   * User Studies using CrowdSourcing and GWAPs   
+
 #### Machine Learning Data Mining and Information Retrieval 
 *  Languages: R, Python, Java
 * Tools/Libraries:  Scikit-learn and Wekka,jupyter, numpy, matplotlib, seaborne, pandas, lxml, Whoosh, ElasticSearch and TextBlob
