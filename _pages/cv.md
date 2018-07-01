@@ -21,6 +21,7 @@ Work experience
 ### 2012–Present: CTO and Senior Systems Analyst and Developer (Consultant)
 
     Company: NM Technology Services & Solution
+    Business or sector: IT
     Address:  7o Bairro Matacuane, 155, Beira, Mozambique
     Website: www.nmtss.net
 
@@ -36,6 +37,7 @@ Work experience
 ### 2017 - Present: Project Manager and Senior DevOps Engineer (Remote)
 
     Company: SD Consultores e Servicos
+    Business or sector: Consultancy
     Address:  Av. Francisico Manyanga, nr. 27, Bairro Central, Nampula, Mozambique
     Website:  www.sdconsultores.co.za
 
@@ -47,43 +49,44 @@ Work experience
 	      * Enforce company's procedures and Standards(Operations and Support);
 	      * Conduct Control (budget, product, Tasks and SLA );
 	      * Provide Team Leadership
-	 * As a DevOpsParticipate in:
+	 * As a DevOps, Participate in:
 	      * Build and maintain tools for deployment, monitoring and operations.
 	      * Troubleshoot and resolve issues in our dev, test and production environments.
 	      * Provide support to resolve and/or escalate production incidents including support during
 	software deployment/release activities.
 	      * all phases of system development, deployment, configuration, and monitoring
 	      * Guarantee systems performance and availability, data integrity, and security.
-	Business or sector Consultancy
+
 
 ### 2011 - Present : Lecturer & Deputy IT Department Coordinator
 
-    Institution: Catholic University of Mozambique
-    Address: Av. Eduardo Mondlane, 149 C.P. 821, 2104 Beira (Mozambique)
-    Website: http://www.ucm.ac.mz
+* Institution: Catholic University of Mozambique
+* Business or sector: Higher Education
+* Address: Av. Eduardo Mondlane, 149 C.P. 821, 2104 Beira (Mozambique)
+* Website: http://www.ucm.ac.mz
 
-   
-   * Duties
-	   * Coordinate Courses, Resources and Personnel (Scheduling, Planning, Allocation)
-	   * Oversee IT students suport services and activities
-	   * Monitor Student progress
-	   * Monitor and assess department faculty performance
-	   * Teaching following courses:
-			* Blended (Campus and e-Learning Based):
-				* Design and Implementation of Enterprise Applications
-				* Introduction to Artificial Inteligence
-				* Advanced Programming
-				* Advanced Software Engineering
-				* System Architecture and Integration
-				* Databases Implementations and Design
-			 * e-Learning-Based (100% online):
-				* Research Methods in Information Technology (Grad)
-				* Enterprise Web Application Design and Internet Governance ( Grad)
-				* Advanced Software Engineering ( Grad )
+       * Duties
+    	   * Coordinate Courses, Resources and Personnel (Scheduling, Planning, Allocation)
+    	   * Oversee IT students suport services and activities
+    	   * Monitor Student progress
+    	   * Monitor and assess department faculty performance
+    	   * Teaching following courses:
+    			* Blended (Campus and e-Learning Based):
+    				* Design and Implementation of Enterprise Applications
+    				* Introduction to Artificial Inteligence
+    				* Advanced Programming
+    				* Advanced Software Engineering
+    				* System Architecture and Integration
+    				* Databases Implementations and Design
+    			 * e-Learning-Based (100% online):
+    				* Research Methods in Information Technology (Grad)
+    				* Enterprise Web Application Design and Internet Governance ( Grad)
+    				* Advanced Software Engineering ( Grad )
          
 ### 2015 - 2016 : Research Assistant 
 
     Institution:  NLPLab at Institute of Information Science, Academia Sinica
+    Business or sector: Research
     Address: 128 Academia Road, Section 2, Nankang, Taipei 115, Taiwan
     Website: http://academiasinicanlplab.github.io/
 
