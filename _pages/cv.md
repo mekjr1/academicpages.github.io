@@ -60,28 +60,28 @@ Work experience
 
 ### 2011 - Present : Lecturer & Deputy IT Department Coordinator
 
-* Institution: Catholic University of Mozambique
-* Business or sector: Higher Education
-* Address: Av. Eduardo Mondlane, 149 C.P. 821, 2104 Beira (Mozambique)
-* Website: http://www.ucm.ac.mz
+    Institution: Catholic University of Mozambique
+    Business or sector: Higher Education
+    Address: Av. Eduardo Mondlane, 149 C.P. 821, 2104 Beira (Mozambique)
+    Website: http://www.ucm.ac.mz
 
-       * Duties
-    	   * Coordinate Courses, Resources and Personnel (Scheduling, Planning, Allocation)
-    	   * Oversee IT students suport services and activities
-    	   * Monitor Student progress
-    	   * Monitor and assess department faculty performance
-    	   * Teaching following courses:
-    			* Blended (Campus and e-Learning Based):
-    				* Design and Implementation of Enterprise Applications
-    				* Introduction to Artificial Inteligence
-    				* Advanced Programming
-    				* Advanced Software Engineering
-    				* System Architecture and Integration
-    				* Databases Implementations and Design
-    			 * e-Learning-Based (100% online):
-    				* Research Methods in Information Technology (Grad)
-    				* Enterprise Web Application Design and Internet Governance ( Grad)
-    				* Advanced Software Engineering ( Grad )
+   * Duties
+	   * Coordinate Courses, Resources and Personnel (Scheduling, Planning, Allocation)
+	   * Oversee IT students suport services and activities
+	   * Monitor Student progress
+	   * Monitor and assess department faculty performance
+	   * Teaching following courses:
+			* Blended (Campus and e-Learning Based):
+				* Design and Implementation of Enterprise Applications
+				* Introduction to Artificial Inteligence
+				* Advanced Programming
+				* Advanced Software Engineering
+				* System Architecture and Integration
+				* Databases Implementations and Design
+			 * e-Learning-Based (100% online):
+				* Research Methods in Information Technology (Grad)
+				* Enterprise Web Application Design and Internet Governance ( Grad)
+				* Advanced Software Engineering ( Grad )
          
 ### 2015 - 2016 : Research Assistant 
 
