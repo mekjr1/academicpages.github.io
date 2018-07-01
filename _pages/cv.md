@@ -93,36 +93,38 @@ Work experience
 
 Skills
 ======
-* Software Engineering & Web Development 
+#### Software Engineering & Web Development
   * Python - **Django, Flask**, *Redis Queue, Celery*
   * R - ML view: gbm, lasso, **randomforest**, etc.; **ggplot2**, knitr, **shiny**. 
   * Java- **Spring, JSF, Hibernate, Servlets, JSP**
   * Database: **MySQL, PostgresSQL, MongoDB**, 
   * Ruby-on-Rails
   * JS/CSS/HTML: Node.js, React.js JQuery, Less,Coffee, Markdown, Haml  
-  * DevOps
-    * **nginx, Apache, Tomcat, GlassFish**, Redis, **Apache Ant**, Apache Maven, **Gradle, nmp, Ansible**, **Travis, Circle**, *Vagrant*, *Ansible, Kubernetes, Docker*
-   *  Cloud Engines/PaaS
-      * **Heroku**, OpenShift, **Google Cloud**, AWS 
-* IT Governance
-  * Enterprise Resource Planning  
-  * Learning Management System
-  * e-Commerce
-* Project Management
+  * DevOps: **nginx, Apache, Tomcat, GlassFish**, Redis, **Apache Ant**, Apache Maven, **Gradle, nmp, Ansible**, **Travis, Circle**, *Vagrant*, *Ansible, Kubernetes, Docker*
+   *  Cloud Engines/PaaS: **Heroku**, OpenShift, **Google Cloud**, AWS 
+#### Enterprise Applications (Customization, Configuration, Deployment)
+  * Knowledge Management System
+    * LMS : Moodle, Atutor
+    * CMS: Wordpress, Drupal, Magento, Joomla! and MediaWiki
+  * Enterprise Resource Planning
+    *  OpentTaps, Apache OFBiz, Odoo, Dolibar
+
+#### IT Governance and Project Management
   * Cost, Resource and Activity Planning and Sequencing
   * Scope Planning and Definition
   * Risk and Issue Management
   * Scalability, Interoperability and Portability Analysis
-* Natural Language Processing 
+  * Tools and Standards: ITIL, ASL, CMM, ISO 9000
+#### Natural Language Processing 
   * Languages: Python and Java, 
   * Tools/Libraries:   TextBlob, NLTK and Stanford CoreNLP
   * Semantic Role Labeling 
   * Sentiment Analysis
   * User Studies using CrowdSourcing and GWAPs   
-* Machine Learning Data Mining and Information Retrieval 
-    *  Languages: R, Python, Java
-    *  Tools/Libraries:  Scikit-learn and Wekka,jupyter, numpy, matplotlib, seaborne, pandas, lxml, Whoosh, ElasticSearch and TextBlob
-     *  Social Media Data Retrieval and Pre-processing
+#### Machine Learning Data Mining and Information Retrieval 
+*  Languages: R, Python, Java
+* Tools/Libraries:  Scikit-learn and Wekka,jupyter, numpy, matplotlib, seaborne, pandas, lxml, Whoosh, ElasticSearch and TextBlob
+*  Social Media Data Retrieval and Pre-processing
 
  
 Publications
