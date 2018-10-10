@@ -4,13 +4,12 @@ excerpt: "Allow businesses to visually and effortlessly build between their app/
 collection: portfolio
 ---
 
-What sets Mensageiro apart from other software platforms is that anyone anywhere in the world can design, implement, manage, modify, and analyse a complex interactions with millions of mobile users in real-time without technical assistance from a software engineer. Plus, Mensageiro is a [free and open source software](https://github.com/mekjr1/im3nsa/)!
+What sets Mensageiro apart from other software platforms is that anyone anywhere in the world can design, implement, manage, modify, and analyse a complex interactions with millions of mobile users in real-time without technical assistance from a software engineer. On top of it all, Mensageiro is a [free and open source software](https://github.com/mekjr1/im3nsa/)!
 
 ----------
 
 
-#####  
-<img align="right"  src='/images/Mensageiro_Navigation_Icons_Blue-07.width-500.png'/>
+<img align="left"  src='/images/Mensageiro_Navigation_Icons_Blue-07.width-500.png'/>
 
 
 **Channels** are used to send and receive messages. This includes SMS, voice, and social media. New channels are always being added to Mensageiro.
@@ -21,7 +20,7 @@ What sets Mensageiro apart from other software platforms is that anyone anywhere
 **Flows** let you see how Mensageiro end-users will move through the a set of interactions based on their responses to your questions. With Flows, anybody can create complex text and voice applications without technical assistance from a programmer.
 
 
-<img align="right"  src='/images/Mensageiro_Navigation_Icons_Blue-01.width-500.png'/>
+<img align="left"  src='/images/Mensageiro_Navigation_Icons_Blue-01.width-500.png'/>
 
 **Messages** work like email, so you can see incoming and outgoing messages whether or not they're attached to a flow and label them accordingly. You can do this with individuals or groups of people defined by specific characteristics.
 
@@ -36,4 +35,6 @@ What sets Mensageiro apart from other software platforms is that anyone anywhere
 <img align="right"  src='/images/Campaigns_Blue-06-05.width-500.png'/>
 **Campaigns** allow you to automate communication with mobile users on a mass scale but with personalised messages based on information your user provides. 
 
-<img align="left"  src='/images/Mensageiro_Navigation_Icons_Blue-06.width-500.png'/>**Triggers** initiate actions in Mensageiro. A trigger can be a keyword received in a text, a point in time, a missed call, or even a follow to a Twitter handle. [Click here Try Mensageiro Platform for free](https://app.mensageiro.info)
+<img align="left"  src='/images/Mensageiro_Navigation_Icons_Blue-06.width-500.png'/>**Triggers** initiate actions in Mensageiro. A trigger can be a keyword received in a text, a point in time, a missed call, or even a follow to a Twitter handle. 
+
+[Click here Try Mensageiro Platform for free](https://app.mensageiro.info)
