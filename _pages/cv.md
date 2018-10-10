@@ -34,6 +34,7 @@ Work experience
     * Manage and oversee departmental quotas
     * Offer suggestions for possible upgrades and changes within the IT department
 
+
 {% endcomment %}
 
 > * 2018 - Present: Project Manager @ SD Consultores & Servicos (Consultant)
@@ -42,15 +43,21 @@ Work experience
 
 {% comment %}
 * Duties
-      * Planning and Defining Scope
-      * Cost, Resource and Activity Planning and Sequencing
-      * Team Leadership 
-      * Developing a Budget
-      * Risk and Issue Management
-      * Progress Monitoring and Reporting 
-      * Team Leadership
-      * Scalability, Interoperability and Portability Analysis
-      * Quality Control
+    * As a PM
+      * Take charge of IT Project Scoping and Planning (Budget, Resource, Tasks and Time)
+      * Manage project Execution (Defining baselines, Measuring Progress, Status reporting and
+Managing Risks and Issues)
+      * Enforce company's procedures and Standards(Operations and Support);
+      * Conduct Control (budget, product, Tasks and SLA );
+      * Provide Team Leadership
+▪ As a DevOpsParticipate in:
+      * Build and maintain tools for deployment, monitoring and operations.
+      * Troubleshoot and resolve issues in our dev, test and production environments.
+      * Provide support to resolve and/or escalate production incidents including support during
+software deployment/release activities.
+      * all phases of system development, deployment, configuration, and monitoring
+      * Guarantee systems performance and availability, data integrity, and security.
+Business or sector Consultancy
 
 {% endcomment %}  
 > * 2015 - 2016 : Research Assistant 
