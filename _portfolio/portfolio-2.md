@@ -7,7 +7,7 @@ collection: portfolio
 What sets Mensageiro apart from other software platforms is that anyone anywhere in the world can design, implement, manage, modify, and analyse a complex interactions with millions of mobile users in real-time without technical assistance from a software engineer. On top of it all, Mensageiro is a [free and open source software](https://github.com/mekjr1/im3nsa/)!
 
 ----------
-
+<div style="text-align: justify">
 
 <img align="left"  src='/images/Mensageiro_Navigation_Icons_Blue-07.width-500.png'/>
 
@@ -38,3 +38,5 @@ What sets Mensageiro apart from other software platforms is that anyone anywhere
 <img align="left"  src='/images/Mensageiro_Navigation_Icons_Blue-06.width-500.png'/>**Triggers** initiate actions in Mensageiro. A trigger can be a keyword received in a text, a point in time, a missed call, or even a follow to a Twitter handle. 
 
 [Click here Try Mensageiro Platform for free](https://app.mensageiro.info)
+
+</div>
