@@ -11,9 +11,26 @@ The "Mensageiro" App for the Mensageiro Platform, does just that by using an ine
 
 
 Mensageiro's Android app enables you to send and receive messages anywhere you can acquire a local SIM card. Simply download the Mensageiro Android application on your phone and follow the instructions to connect it to your account. When the app is active, anytime your Mensageiro Platform account sends a message, it will notify your Android phone. The phone will then send the message from your local number on your behalf. If somebody responds to that message, the phone will relay it back to your Mensageiro Platform account. You can add as many Android channels as you like, and even enable IVR (voice) functionalilty.
+</div>
 
 The Mensageiro is open source, licensed under AGPL. Copyright 2018 Abdul Meque.
 
 [Click here to download from Play Store](http://https://play.google.com/store/apps/details?id=io.im3nsa.canalandroid)
 
-</div>
+## Features
+
+* Authenticate number via Firebase Cloud Messaging
+* Push notifications
+* Network preference
+* Bypass Android's 100 SMS per hour bottleneck 
+* Push and Pull SMS messages to/from the server
+* Detailed Log of the messages sent/received/failed
+
+# Technologies/Tools Used
+
+* Android Platform 26+
+* Android SDK 3
+* Firebase Cloud Messaging 
+* Java 8
+* Gradle 4
+* Google PlayServices

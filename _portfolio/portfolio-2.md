@@ -3,11 +3,49 @@ title: "Mensageiro Platform"
 excerpt: "Allow businesses to visually and effortlessly build between their app/platforms/services and their clients using SMS, USSD and/or Social networks. <br/><img src='/images/mensageiroplatform.png'>"
 collection: portfolio
 ---
-
-What sets Mensageiro apart from other software platforms is that anyone anywhere in the world can design, implement, manage, modify, and analyse a complex interactions with millions of mobile users in real-time without technical assistance from a software engineer. On top of it all, Mensageiro is a [free and open source software](https://github.com/mekjr1/im3nsa/)!
+<div style="text-align: justify">
+What sets Mensageiro apart from other software platforms is that anyone anywhere in the world can design, implement, manage, modify, and analyse a complex interactions with millions of mobile users in real-time without technical assistance from a software engineer. </div> On top of it all, Mensageiro is a [free and open source software](https://github.com/mekjr1/im3nsa/)!
 
 ----------
-<div style="text-align: justify">
+
+## Features
+
+* Contact and Message management
+* Visual interface to build messaging “flows”
+* Ability to collect open ended, numerical, categorical, time or geographic input
+* Ability to build multi step questionnaires that interlink, contain skip logic control contact group memberships
+* Ability to schedule messages or flows based on time, keywords, missed or incoming calls
+* Ability to build individualized time based campaigns, such as those used for maternity reminders
+* Powerful analytics framework to let you quickly gain insight into your data
+* Integration with Twilio, Nexmo, Kannel and many other messaging providers
+* Integration with Twitter to allow for direct messaging interactions
+* Integration with Twilio and Verboice allowing for IVR based flows to allow for voice prompting and either touch tone or recorded responses
+* Scalable architecture, able to handle millions of messages across thousands of organizations
+* Powerful API to allow integrating your own solution or building on top of the data you collect using Mensageiro
+
+## Technologies/Tools Used
+
+* Python/Django
+* GO  
+* PostgreSQL along with the PostGIS extensions. 
+* Google Cloud Redis
+* AWS ElasticSearch Service (Search engine)
+* Lessc, the Less compiler.
+* Coffee, the Coffee script compiler.
+* Bower, package manager for javascript libraries.
+* libmagic 
+* GitHub (Source repo)
+* TravisCI (CD/CI)
+* heroku (CD/CI)
+* Coveralls
+* Vagrant
+* Ansible 
+* NodeJS
+* Google Cloud Compute (Hosting)
+* Google Cloud DNS
+* Amazon AWS S3 Buckets (Archiving, Indexing)
+* Amazone Elastic Compute Cloud Instance (Documentation Hosting)
+
 
 <img align="left"  src='/images/Mensageiro_Navigation_Icons_Blue-07.width-500.png'/>
 
@@ -39,4 +77,7 @@ What sets Mensageiro apart from other software platforms is that anyone anywhere
 
 [Click here Try Mensageiro Platform for free](https://app.mensageiro.info)
 
-</div>
+
+
+
+
