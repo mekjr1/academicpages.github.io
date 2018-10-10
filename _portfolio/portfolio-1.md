@@ -1,6 +1,6 @@
 ---
 title: "Mensageiro App"
-excerpt: "An Android app that relays sms to/from the Mensageiro Platform to a regular phone <br/><img src='/images/500x300.png'>"
+excerpt: "An Android app that enables two-way SMS messaging with the Mensageiro Platform <br/><img src='/images/mensageiro.png'>"
 collection: portfolio
 ---
 
@@ -11,4 +11,4 @@ The "Mensageiro" App for the Mensageiro Platform, does just that by using an ine
 
 The Mensageiro is open source, licensed under AGPL. Copyright 2018 Abdul Meque.
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+[Click here to download from Play Store](http://https://play.google.com/store/apps/details?id=io.im3nsa.canalandroid)
