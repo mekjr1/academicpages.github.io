@@ -10,12 +10,12 @@ published: true
 ---
 
 ## Short Bio
-My name is Abdul G. M. Meque, currently a _Computer Science Lecturer_ at **Catholic University of Mozambique**, _Project Manager and Senior IT Governance Expert_ (Consultant) at **SD Consultores e Servicos** _Senior ICT Specialist_ and _CIO_ at **NM Technology Services and Solutions**. 
+My name is Abdul G. M. Meque, currently a _Computer Science Lecturer_ at **Catholic University of Mozambique**, _Project Manager and Senior DevOps Engineer_ (Consultant) at **SD Consultores e Servicos** _CTO_ and _Senior Systems Analyst & Developer_ at **NM Technology Services and Solutions**. 
 
 Basically I have two-faced carreer, working both in Academia and Industry
 My current Academic interests are Social Networks Data Mining, Natural Languages Processing ( particularly Sentiment Analysis and Semantic Role Labeling), Artificial Inteligence and Information Systems. 
 
-In my  Industry carreer I split my time as a CIO and a Consultant in ICT and Software/System Engineering projects, helping institutions devising internal ICT related policies and plans for  ICT Governance, Software Migration, Systems and Software adoption.
+In my  Industry carreer I split my time as a CTO and a Consultant in ICT and Software/System Engineering projects, helping institutions devising internal ICT related policies and plans for  ICT Governance, Software Migration, Systems and Software adoption.
 
 I am a PhD Candidate in Computer Science, a joint program by the [Institute of Information Science at Academia Sinica, Taiwan](http://www.iis.sinica.edu.tw "IIS Sinica") and [Computer Science Department at National ChengChi University, Taiwan](http://cs.nccu.edu.tw "CS at NCCU"). As a fellow from the [Taiwan Internation Graduate Program](tigp.sinica.edu.tw "TIGP")
 
