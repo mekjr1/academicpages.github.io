@@ -19,7 +19,7 @@ Education
 Work experience
 ======
 
-### 2012–Present: Chief Technology Officer and Senior Systems Analyst and Developer (Consultant)
+### 2012–Present: Director of ICT and Senior Systems Analyst and Developer (Consultant)
 
     Company: NM Technology Services & Solution
     Business or sector: IT
