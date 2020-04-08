@@ -19,7 +19,7 @@ Education
 Work experience
 ======
 
-### 2012–Present: Director of ICT and Senior Systems Analyst and Developer (Consultant)
+### 2012–Present: Director of ICT and Senior Systems Analyst and Developer 
 
     Company: NM Technology Services & Solution
     Business or sector: IT
@@ -35,7 +35,7 @@ Work experience
 	    * Maintain Company's Internal processes and procedures
 
 
-### 2017 - Present: Project Manager and Senior DevOps Engineer (Remote)
+### 2017 - Present: Project Manager and Senior DevOps Engineer 
 
     Company: SD Consultores e Servicos
     Business or sector: Consultancy
